@@ -1,6 +1,6 @@
 const nextConfig = {
     images: {
-        domains: ["unsplash.com","images.unsplash.com","prlabsapi.com"],
+        domains: ["unsplash.com","images.unsplash.com","prlabsapi.com","https://car-hub-rlzo.onrender.com"],
         remotePatterns: [
             {
               protocol: 'https',
